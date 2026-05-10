@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Màu nền của nút (lấy mã màu @color/a của bạn) -->
+    <solid android:color="#FFCC99" />
+
+    <!-- Độ vát (bo tròn) 4 góc, bạn có thể chỉnh số dp lớn hơn để tròn hơn -->
+    <corners android:radius="20dp" />
+</shape>

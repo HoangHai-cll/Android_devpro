@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">B4</string>
+    <string name="detail">Detail</string>
+    <string name="free_wifi">Free Wifi</string>
+    <string name="rating_5_0">5.0</string>
+    <string name="the_aston_vill_hotel">The Aston Vill Hotel</string>
+    <string name="free_breakfast">Free Breakfast</string>
+    <string name="price_night">$ 207.1 / night</string>
+    <string name="location_text">Alice Springs NT 0870, Australia</string>
+    <string name="description">Description</string>
+    <string name="text_description">Vietnix se tong hop cho ban bang ma mau day du. Bao gom co ma mau ap dung cho code HTML, CSS va ma mau RGB, danh cho nhung nha thiet ke website, lap trinh vien, designer...</string>
+    <string name="preview">Preview</string>
+    <string name="booking_now">Booking Now</string>
+    <string name="back_desc" />
+    <string name="menu_desc" />
+</resources>
