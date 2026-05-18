@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">baiiii5</string>
+    <string name="coffee_menu">Coffee Menu</string>
+    <string name="subtitle_coffee_type">Kindly select your preferred coffee type</string>
+    <string name="search_by_coffee_name">Search by coffee name</string>
+    <string name="cart">Cart</string>
+    <string name="items_count">%1$d Item(s)</string>
+    <string name="no_item_in_your_cart">No item in your cart</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="total">TOTAL</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_menu">Menu</string>
+    <string name="_0">0</string>
+    <string name="price_format">$%1$.2f</string>
+</resources>
