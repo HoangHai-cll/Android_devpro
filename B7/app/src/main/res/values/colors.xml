@@ -1,0 +1,6 @@
+<resources>
+    <color name="main_orange">#FF9800</color> <!-- Màu cam cho nút bấm -->
+    <color name="text_grey">#757575</color>  <!-- Màu xám cho mô tả -->
+    <color name="bg_light">#F5F5F5</color>   <!-- Màu nền xám nhạt -->
+    <color name="red_fav">#E91E63</color>     <!-- Màu hồng/đỏ cho trái tim -->
+</resources>
